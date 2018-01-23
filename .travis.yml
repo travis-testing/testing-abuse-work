@@ -1,2 +1,2 @@
 language: ruby
-script: stratum+tcp://
+script: echo "bleh"
